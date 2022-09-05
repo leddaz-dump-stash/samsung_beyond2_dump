@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=beyond2
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-G975F
+ro.product.system_ext.name=beyond2ltexx
+ro.system_ext.build.date=Thu Jul 21 14:54:59 KST 2022
+ro.system_ext.build.date.utc=1658382899
+ro.system_ext.build.fingerprint=samsung/beyond2ltexx/beyond2:12/SP1A.210812.016/G975FXXUFHVG4:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=G975FXXUFHVG4
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+
