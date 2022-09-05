@@ -1,0 +1,21 @@
+{
+  "update_version": 1,
+  "note": "Enabling IMS for Orange_MA",
+  "imsswitch_update":
+  {
+    "defaultswitch": {
+    },
+    "imsswitch": [
+      {
+        "mnoname": "Orange_MA",
+        "enableIms": true,
+        "enableServiceVolte": true,
+        "enableServiceVowifi": true,
+        "enableServiceVilte": false,
+        "enableServiceRcs": true,
+        "enableServiceRcschat": true,
+        "enableServiceSmsip": false
+      }
+    ]
+  }
+}
